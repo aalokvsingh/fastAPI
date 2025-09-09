@@ -18,6 +18,3 @@ Install Packages
 Install from requirements.txt
 pip install -r requirements.txt
 Run Your Program
-python main.py
-
-Hello World
